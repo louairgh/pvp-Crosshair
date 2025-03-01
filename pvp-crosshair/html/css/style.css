@@ -1,0 +1,40 @@
+@font-face {
+  font-family: Gilory;
+  src: url(../fonts/Gilroy-Regular.ttf);
+}
+
+@font-face {
+  font-family: Gilory-Bold;
+  src: url(../fonts/Gilroy-Bold.ttf);
+}
+
+@font-face {
+  font-family: Gilory-EB;
+  src: url(../fonts/Gilroy-ExtraBold.otf);
+}
+
+@font-face {
+  font-family: Gilory-Light;
+  src: url(../fonts/Gilroy-Light.otf);
+}
+
+:root {
+  --clr-black: hsl(0, 0%, 0%);
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-transparent: hsla(0, 0%, 0%, 0);
+  --clr-opacity-black-300: hsla(0 0% 0% / 0.3);
+  --clr-opacity-black-500: hsla(0 0% 0% / 0.5);
+  --clr-Gray-600: hsl(0 0% 60%);
+
+  --clr-theme: #16adf2;
+  --clr-theme-opacity: rgba(22, 173, 242, 0.2);
+  --clr-theme-opacity-2: rgba(22, 173, 242, 0.5);
+
+  --clr-theme-Grey: rgba(255, 255, 255, 0.1);
+
+  --Border-Thick: 0.308vh;
+  --before-raius: 2.002vh;
+
+  --ff-Regular: Gilory, sans-serif;
+  --ff-Bold: Gilory-Bold, sans-serif;
+}
