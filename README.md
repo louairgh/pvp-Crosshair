@@ -13,6 +13,10 @@ The menu includes options to adjust the crosshair's size, thickness, color, and 
 - Save custom crosshair settings
 - Keybind support (default: `F2`)
 
+## Preview
+
+![Desktop Screenshot 2025 02 28 - 16 15 53 59](https://github.com/user-attachments/assets/52f65ddf-c103-4264-9e23-9d2b9b4d46a0)
+
 ## Installation
 1. Download the script files and place them in your `resources` folder.
 2. Add `start pvp_crosshair` to your `server.cfg`.
