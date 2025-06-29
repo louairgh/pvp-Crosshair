@@ -25,7 +25,7 @@ The menu includes options to adjust the crosshair's size, thickness, color, and 
 ## Configuration
 Modify the `config.lua` file to customize the menu settings.
 
-config = {
+`config = {
   status = {
     title = "Status On/Off",
     description = "Enable Aim Point"
@@ -60,7 +60,7 @@ config = {
   },
   saveBtn = "Save Aim Point",
   keybind = "F2" -- Change this to your preferred key
-}
+}`
 
 ## Usage
 - Open the crosshair menu by pressing `F2` (default keybind).
